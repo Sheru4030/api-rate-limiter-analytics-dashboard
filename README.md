@@ -200,7 +200,23 @@ This would create an audit trail of rate-limit decisions and support future filt
 
 ## Screenshots
 
+### Dashboard
+![Dashboard](Dashboard.jpeg)
 
+### Analytics
+![Analytics](Analytics.jpeg)
+
+### ChatBot
+![ChatBot](ChatBot.jpeg)
+
+### MongoDB Compass
+![MongoDB Compass](mongodb%20compass.jpeg)
+
+### OTP Send
+![OTP Send](otp-send.jpeg)
+
+### Requests
+![Requests](5requests.jpeg)
 
 
 ## Security Notes
