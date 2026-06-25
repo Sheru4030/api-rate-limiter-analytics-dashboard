@@ -23,16 +23,16 @@ This project demonstrates how an OTP endpoint can be protected from excessive re
 
 Technologies Used 
 
-Frontend - Next.js, React, TypeScript
-Backend - Next.js Route Handlers, Node.js
-Database - MongoDB Atlas
-Object Data Modeling - Mongoose
-Database Inspection - MongoDB Compass
-Styling - Tailwind CSS 
-Charts - Recharts
-Rate Limiting - Custom sliding window algorithm
-Development Tools - GitHub Copilot, Google Antigravity, PowerShell
-Version Control - Git and GitHub 
+Frontend - Next.js, React, TypeScript; 
+Backend - Next.js Route Handlers, Node.js; 
+Database - MongoDB Atlas; 
+Object Data Modeling - Mongoose; 
+Database Inspection - MongoDB Compass; 
+Styling - Tailwind CSS; 
+Charts - Recharts; 
+Rate Limiting - Custom sliding window algorithm; 
+Development Tools - GitHub Copilot, Google Antigravity, PowerShell; 
+Version Control - Git and GitHub.
 
 ## Project Structure
 
